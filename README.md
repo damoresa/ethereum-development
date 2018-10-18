@@ -1,4 +1,4 @@
-## Blockchain utils
+## Ethereum development
 
 The purpose of this repository is to serve as a step by step 
 guide to install all the recommended tools for _smart contract_ 
