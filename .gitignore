@@ -1,0 +1,13 @@
+# IDE
+.idea/
+*.iml
+
+# Node
+node_modules/
+
+# Built contracts
+build/
+build-network/
+
+# Secrets
+secrets.json
