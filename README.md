@@ -7,9 +7,12 @@ networks - in the example we'll be deploying it to the _Ropsten_
 testnet, but the process should be the same for every other network 
 out there.
 
-This repository will also attempt to cover how to get funds on 
-blockchain testnets in order to deploy your contracts and perform 
-tests in them.
+This repository will also cover how to get funds on blockchain testnets 
+in order to deploy your contracts and run tests in them.
+
+You can see more detailed information on 
+[this](https://medium.com/@damoresac/developing-ethereum-smart-contracts-ef36ee4574c0) 
+_Medium_ article.
 
 Now, in order to keep it as simple as possible, we'll be using 
 the _[Truffle framework]_ in order to generate a local _blockchain_ 
